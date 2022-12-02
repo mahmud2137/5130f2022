@@ -6,3 +6,4 @@ Name of the Group Members:
   3. Atqiya Munawara Mahi (atqiyamunawara_mahi@student.uml.edu)
 
 Original Github Repository of this project: https://github.com/SharminAnu/SharminAnu.github.io 
+ArcGIS map Link: https://umlowell.maps.arcgis.com/home/webmap/viewer.html?webmap=b9082e2407e845a39346af898292d0d0
